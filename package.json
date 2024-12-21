@@ -1,5 +1,5 @@
 {
-  "name": "bpmn-auto-layout-server",
+  "name": "bpmn-layout-service",
   "version": "1.0.0",
   "description": "A Node.js service for applying BPMN auto-layout",
   "main": "server.js",
